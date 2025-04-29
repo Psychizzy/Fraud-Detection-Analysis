@@ -110,3 +110,7 @@ fraud-detection/
 │   └── Fraud_Detection_Presentation_Ajayi_Oluwaseyi.pptx
 ├── README.md
 └── requirements.txt
+
+## NOTE; 
+Dataset file is too large to upload here
+you can request via my email attach to this account THANK YOU!!
